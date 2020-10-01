@@ -20,8 +20,11 @@ namespace DemoGithub
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 10; //hejsan!
-
-
+            i = 50;
+        //detta är öndringar som andra utvecklare gör och pushar upp den
+        
+        int newValue = 40;
+        
         }
     }
 }
